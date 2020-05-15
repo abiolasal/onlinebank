@@ -8,6 +8,6 @@ Usage:
 3.Create a db named as 'test' and import the test.sql from phpMyAdmin.
 4.change the password in _inc/dbconn.php file accordingly.
 
-url for customer index page will be localhost/onlinebanking
-url for admin logon page will be localhost/onlinebanking/adminlogin.php
-url for staff logon page will be localhost/onlinebanking/staff_login.php
+url for customer index page will be localhost/onlinebank
+url for admin logon page will be localhost/onlinebank/adminlogin.php
+url for staff logon page will be localhost/onlinebank/staff_login.php
