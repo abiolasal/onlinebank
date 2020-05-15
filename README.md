@@ -1,6 +1,6 @@
 # onlinebanking
-# This is a project carried out as part of a course requiremnt. It was done by a team of 5 members.
-# I worked on the Customer, staff and admin login/logout pages, and their corresponding dashboards.
+This is a project carried out as part of a course requiremnt. It was done by a team of 5 members.
+I worked on the Customer, staff and admin login/logout pages, and their corresponding dashboards.
 
 Usage:
 1.Install XAMPP or WAMPP or the like
