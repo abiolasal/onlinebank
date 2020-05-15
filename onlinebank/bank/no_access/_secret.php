@@ -8,15 +8,15 @@
     });
 
 // this is the connection string for the server. no need to change this, it should just work.
-    $dsn = 'mysql:dbname=test;host=student-db.cse.unt.edu;charset=utf8';
+    $dsn = 'mysql:dbname=test;host=localhost;charset=utf8';
 
 //test connection to localhost
 //$db_connection_string = 'mysql:dbname=test;host=localhost';
 
 // these variables are required to connect to the database mentioned above.
 // please fill these out with the correct information. Don't forget to change your passwords.
-    $db_user='ds0699';
-    $db_password='3HbhcQZvk)ukmmG';
+    $db_user='';
+    $db_password='';
 
 //options for DB Connection
     $db_options = array(
