@@ -1,6 +1,6 @@
 <?php
 $serverName="localhost";
-$dbusername="phpmyadmin";
+$dbusername="";
 $dbpassword="";
 $dbname="test";
 mysql_connect($serverName,$dbusername,$dbpassword);
