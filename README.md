@@ -1,5 +1,5 @@
 # onlinebanking
-This is a project carried out as part of a course requiremnt. It was done by a team of 5 members.
+This is a project carried out as part of a course requiremnt. It was done by a team of 5 members.For this project, security is very important, so we have used php and html functions that help to prevent the common e-cpmmerce app attacks like, sql injection, code injection - csrf, xss, buffer overflow and many others.
 I worked on the Customer, staff and admin login/logout pages, and their corresponding dashboards.
 
 Usage:
